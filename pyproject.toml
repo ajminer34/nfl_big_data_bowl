@@ -1,0 +1,10 @@
+[project]
+name = "nfl-big-data-bowl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "kagglehub>=1.0.3",
+    "pandas>=3.1.1",
+]
